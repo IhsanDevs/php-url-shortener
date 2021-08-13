@@ -1,0 +1,21 @@
+body {
+  background: linear-gradient(334deg, #00a7ff, #9400ff, #0042ff);
+  background-size: 600% 600%;
+  -webkit-animation: bgGradient 9s ease infinite;
+  -moz-animation: bgGradient 9s ease infinite;
+  -o-animation: bgGradient 9s ease infinite;
+  animation: bgGradient 9s ease infinite;
+}
+
+@keyframes bgGradient {
+  0% {
+    background-position: 13% 0%;
+  }
+  50% {
+    background-position: 88% 100%;
+  }
+  100% {
+    background-position: 13% 0%;
+  }
+}
+
