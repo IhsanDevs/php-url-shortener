@@ -1,0 +1,7 @@
+{
+    "name": "URL Shortener PHP",
+    "description": "Script PHP untuk membuat short link dari web kamu sendiri disertai dengan tracking hit URL.",
+    "repository": "https://github.com/IhsanDevs/php-url-shortener",
+    "logo": "https://mirror-my-url.herokuapp.com/assets/img/icon/android-chrome-512x512.png",
+    "keywords": ["PHP"]
+  }
